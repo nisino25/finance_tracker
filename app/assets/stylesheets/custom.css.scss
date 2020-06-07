@@ -1,8 +1,8 @@
 @import 'bootstrap/dist/css/bootstrap';
 
-// .navbar-brand {
-//     font-size: 3rem;
-// } 
+#navbar1{
+  background-color: lightgoldenrodyellow !important;
+} 
 
 #home-container {
     margin-top: 25px;
@@ -22,4 +22,5 @@
 
 .results-block {
   display: inline-block;
+  margin-bottom: 1rem;
 }
